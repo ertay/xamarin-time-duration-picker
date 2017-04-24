@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="MainTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    <item name="android:windowBackground">@color/background_grey</item>
+    <!-- Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette-->
+    <!-- colorPrimary is used for the default action bar background -->
+    <item name="colorPrimary">#630093</item>
+    <!-- colorPrimaryDark is used for the status bar -->
+    <item name="colorPrimaryDark">#4F0075</item>
+    <!-- colorAccent is used as the default value for colorControlActivated
+         which is used to tint widgets -->
+    <item name="colorAccent">@color/primary_purple</item>
+
+    <!-- <item name="colorControlHighlight">#00BCD3</item> -->
+    <!-- You can also set colorControlNormal, colorControlActivated
+         colorControlHighlight and colorSwitchThumbNormal. -->
+
+    <item name="timeDurationPickerStyle">@style/DurationPickerStyle</item>
+
+  </style>
+
+  <style name="DurationPickerStyle" parent="Widget.TimeDurationPicker.Dialog">
+    <item name="durationDisplayBackground">@color/primary_purple</item>
+    <item name="numPadButtonPadding">8dp</item>
+  </style>
+
+  
+  
+</resources>
