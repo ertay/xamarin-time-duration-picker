@@ -1,4 +1,4 @@
-Xamarin Android implementation of [Time Duration Picker by svenwiegand] (https://github.com/svenwiegand/time-duration-picker). Original readme below, examples and sample will be updated when ready.
+Xamarin Android implementation of [Time Duration Picker by svenwiegand](https://github.com/svenwiegand/time-duration-picker). Original readme below, examples and sample will be updated when ready.
 
 
 
